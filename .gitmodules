@@ -10,3 +10,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:williamlagos/pomodorino-api.git
+[submodule "design"]
+	path = design
+	url = git@github.com:heidimichel/pomodorino-design.git
