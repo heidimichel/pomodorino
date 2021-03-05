@@ -1,2 +1,2 @@
-# pomodorino
-simple pomodoro-style timer app
+# Pomodorino
+A simple pomodoro-style timer app
