@@ -4,12 +4,12 @@
 [submodule "apple"]
 	path = apple
 	url = git@github.com:williamlagos/pomodorino-apple.git
-[submodule "web"]
-	path = web
-	url = git@github.com:williamlagos/pomodorino-web.git
 [submodule "api"]
 	path = api
 	url = git@github.com:williamlagos/pomodorino-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:heidimichel/pomodorino-web.git
 [submodule "design"]
 	path = design
 	url = git@github.com:heidimichel/pomodorino-design.git
